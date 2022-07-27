@@ -1,0 +1,9 @@
+.search-box-container{
+    padding: 30px 40px;
+    background-color: #fff;
+    color: black;
+    font-size: 25px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

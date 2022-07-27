@@ -1,0 +1,22 @@
+.general-info{
+    position: absolute;
+    bottom: 5rem;
+    left: 7rem;
+    z-index: 12;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+}
+.general-temp{
+    font-size: 6vw;
+    padding: 0 2rem;
+}
+.general-loc{
+    font-size: 3.7vw;
+    padding-right: 1rem;
+}
+.general-icon img{
+    width: 150px;
+    height: 150px;
+}
