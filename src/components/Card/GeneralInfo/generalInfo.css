@@ -9,11 +9,11 @@
     font-weight: 400;
 }
 .general-temp{
-    font-size: 6vw;
+    font-size: 6rem;
     padding: 0 2rem;
 }
 .general-loc{
-    font-size: 3.7vw;
+    font-size: 3.7rem;
     padding-right: 1rem;
 }
 .general-icon img{
